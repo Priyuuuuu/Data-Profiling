@@ -72,4 +72,32 @@ STATISTICS EXPLANATION:
 •	Purpose: Recognizes common patterns in data (e.g., phone numbers, emails).
 •	Why: Aids in validating and cleaning structured textual data.
 
+Running Procedure:
+
+## Setup
+
+- Clone the repository:
+  ```bash
+  git clone https://github.com/Priyuuuuu/Data-Profiling
+  ```
+
+- Navigate to the project directory:
+  ```bash
+  cd data_Profiling
+  ```
+
+- Install dependencies:
+  ```bash
+  pip install -r requirements.txt
+
+  ```
+
+- Run the application:
+  ```bash
+  python manage.py runserver  # For Django backend
+    
+  ```
+
+
+
 
